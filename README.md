@@ -5,7 +5,7 @@ A modern and responsive personal portfolio website built to showcase projects, s
 ## 🌐 Live Demo
 
 Visit the website here:
-[Senior19 Portfolio Website](https://senior19.github.io)
+[Ashish Portfolio Website](https://senior19.github.io)
 
 ## 📌 Features
 
@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by [Senior19 GitHub Profile](https://github.com/Senior19)
+Developed by [Ashish Jha](https://github.com/Senior19)
 
 To setup a dev environment:
 
