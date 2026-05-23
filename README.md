@@ -84,7 +84,7 @@ npm i
 
 # Run the local dev server
 npm run dev
-```
+```'
 
 To serve a production build:
 
