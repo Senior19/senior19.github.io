@@ -1,6 +1,6 @@
 # 🚀 Senior19 Portfolio Website
 
-A modern and responsive personal portfolio website built to showcase projects, skills, achievements, and professional experience. This website serves as an online presence for demonstrating development skills, creativity, and technical expertise..
+A modern and responsive personal portfolio website built to showcase projects, skills, achievements, and professional experience. This website serves as an online presence for demonstrating development skills, creativity, and technical expertise.
 
 ## 🌐 Live Demo
 
